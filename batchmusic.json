@@ -1,0 +1,34 @@
+{
+    "Music": [
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Eli soares"},
+                  "SongTitle": {"S": "Ele e"},
+                  "AlbumTitle": {"S": "Laboratorio do groove"},
+                  "SongYear": {"S": "2019"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                 "Item": {
+                  "Artist": {"S": "Eli soares"},
+                  "SongTitle": {"S": "E se eu cair"},
+                  "AlbumTitle": {"S": "Laboratorio do groove"},
+                  "SongYear": {"S": "2019"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                 "Item": {
+                  "Artist": {"S": "Eli soares"},
+                  "SongTitle": {"S": "Dele, com ele"},
+                  "AlbumTitle": {"S": "Laboratorio do groove"},
+                  "SongYear": {"S": "2019"}
+                }
+            }
+        }
+      ]
+}
